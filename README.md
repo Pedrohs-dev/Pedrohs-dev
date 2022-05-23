@@ -1,7 +1,7 @@
 ## Olá, sou o Pedro henrique 
 
-- 🔭 Hoje trabalho como suporte técnico na Industria açaí do ninja
-- 🌱 Estudando Js e wordpress
+- 🔭 Hoje trabalho como suporte técnico em uma industria
+- 🌱 Cursando ciências da computação e estudando por fora Js e wordpress
 - 👯 contate-me no email: ph24402@gmail.com
 - 🤔 Procurando uma oportunidade como desenvolvedor...
 
